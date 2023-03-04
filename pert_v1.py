@@ -53,4 +53,4 @@ pert_label.pack()
 
 # Start the main event loop to display the window
 root.mainloop()
-#created by SS95
+#created by SS95+GPT
